@@ -1,0 +1,17 @@
+{
+  "name": "mar72lol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app",
+    "combinado": "node x/ejemplo && node app"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "description": "Pokemon",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "colors": "^1.4.0",
+    "moment": "^2.30.1"
+  }
+}
